@@ -20,6 +20,6 @@
 - set data to dict
 - set data to history with value is 0
 
-complexity: I think what make cost is min in method set -> it make O(n)
+Time complexity: I think what make cost is min in method set -> it make O(n)
 another method get , or set is O(1)
 -> so complex is O(n)

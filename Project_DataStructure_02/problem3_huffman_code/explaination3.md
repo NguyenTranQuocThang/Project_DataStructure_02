@@ -47,5 +47,9 @@ Complexity of this code:
 Very complex :( - sorry, i'm very busy to make cleaner
 
 I think :
-encode: it is tree -> log(n) (actually greater a lot than log n )
-decode: O(n)
+
+encode: it is tree -> time complexity log(n) (actually greater a lot than log n )
+Space complexity: log(n)
+
+decode: time complexity : O(n) 
+Space complexity: O(n)
